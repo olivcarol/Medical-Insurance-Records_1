@@ -1,3 +1,3 @@
 # Medical-Insurance-Records_1
-
-Creating medical insurance records for patients - Studying Dictionaries (Codecademy)
+Using Python to analyze a dataset of U.S. medical insurance costs as part of Data Science and Data Analyst course at Codecademy.
+Studying Dictionaries.
