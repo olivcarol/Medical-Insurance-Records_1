@@ -1,5 +1,5 @@
 # Data Science - Codecademy
-<img width="431" alt="Screen Shot 2021-05-26 at 2 02 20 AM" src="https://user-images.githubusercontent.com/80420919/119605061-8657b000-bdc6-11eb-816a-4396b4274fa7.png">
+<img width="407" alt="Screen Shot 2021-05-26 at 2 25 10 AM" src="https://user-images.githubusercontent.com/80420919/119606855-ab99ed80-bdc9-11eb-8dc0-f0c30cc70bbb.png">
 
 # Medical Insurance Records: project_1
 Using Python to analyze a dataset of U.S. medical insurance records that contains info such as name, age, bmi, number of children and smoking status.
